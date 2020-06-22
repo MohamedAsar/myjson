@@ -5,6 +5,9 @@
       "title": "hello"
     }
   ],
+  "funds": {
+    "fund": 10000
+  },
   "portfolio": [
     {
       "name": "Samsung",
