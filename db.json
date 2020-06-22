@@ -1,11 +1,47 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "funds":9380,
+   "portfolio":[
+      {
+         "name":"BMW",
+         "quantity":5,
+         "stock":{
+            "name":"BMW",
+            "price":75
+         }
+      },
+      {
+         "name":"Google",
+         "quantity":0
+      },
+      {
+         "name":"Apple",
+         "quantity":5,
+         "stock":{
+            "name":"Apple",
+            "price":53
+         }
+      },
+      {
+         "name":"Twitter",
+         "quantity":0
+      }
+   ],
+   "stocks":[
+      {
+         "name":"BMW",
+         "price":75
+      },
+      {
+         "name":"Google",
+         "price":52
+      },
+      {
+         "name":"Apple",
+         "price":53
+      },
+      {
+         "name":"Twitter",
+         "price":20
+      }
+   ]
 }
