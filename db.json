@@ -5,43 +5,48 @@
       "title": "hello"
     }
   ],
-  "funds": {
-    "fund": "10000"
-  },
   "portfolio": [
     {
-      "name": "Redmi",
-      "quantity": 0
+      "name": "BMW",
+      "quantity": 5,
+      "stock": {
+        "name": "BMW",
+        "price": 75
+      }
     },
     {
-      "name": "Vivo",
+      "name": "Google",
       "quantity": 0
     },
     {
       "name": "Apple",
-      "quantity": 0
+      "quantity": 5,
+      "stock": {
+        "name": "Apple",
+        "price": 53
+      }
     },
     {
-      "name": "Samsung",
+      "name": "Twitter",
       "quantity": 0
     }
   ],
-    "stocks": [
+  "stocks": [
     {
-      "name": "Redmi",
-      "price": 45
-    },
-    {
-      "name": "Vivo",
-      "price": 50
-    },
-    {
-      "name": "Apple",
+      "name": "BMW",
       "price": 75
     },
     {
-      "name": "Samsung",
-      "price": 60
+      "name": "Google",
+      "price": 52
+    },
+    {
+      "name": "Apple",
+      "price": 53
+    },
+    {
+      "name": "Twitter",
+      "price": 20
     }
   ],
   "profile": {
