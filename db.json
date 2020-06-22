@@ -5,7 +5,9 @@
       "title": "hello"
     }
   ],
-  "funds": 1000,
+  "funds": {
+    "fund": "10000"
+  }
   "portfolio": [
     {
       "name": "Redmi",
