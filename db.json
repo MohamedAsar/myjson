@@ -11,11 +11,7 @@
   "portfolio": [
     {
       "name": "Samsung",
-      "quantity": 5,
-      "stock": {
-        "name": "Samsung",
-        "price": 75
-      }
+      "quantity": 0
     },
     {
       "name": "Redmi",
@@ -23,11 +19,7 @@
     },
     {
       "name": "Apple",
-      "quantity": 5,
-      "stock": {
-        "name": "Apple",
-        "price": 53
-      }
+      "quantity": 0
     },
     {
       "name": "Vivo",
