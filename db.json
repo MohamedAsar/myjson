@@ -8,15 +8,15 @@
   "funds": 10000,
   "portfolio": [
     {
-      "name": "BMW",
+      "name": "Samsung",
       "quantity": 5,
       "stock": {
-        "name": "BMW",
+        "name": "Samsung",
         "price": 75
       }
     },
     {
-      "name": "Google",
+      "name": "Redmi",
       "quantity": 0
     },
     {
@@ -28,17 +28,17 @@
       }
     },
     {
-      "name": "Twitter",
+      "name": "Vivo",
       "quantity": 0
     }
   ],
   "stocks": [
     {
-      "name": "BMW",
+      "name": "Samsung",
       "price": 75
     },
     {
-      "name": "Google",
+      "name": "Redmi",
       "price": 52
     },
     {
@@ -46,7 +46,7 @@
       "price": 53
     },
     {
-      "name": "Twitter",
+      "name": "Vivo",
       "price": 20
     }
   ],
