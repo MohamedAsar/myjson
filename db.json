@@ -5,6 +5,7 @@
       "title": "hello"
     }
   ],
+  "funds": 10000,
   "portfolio": [
     {
       "name": "BMW",
