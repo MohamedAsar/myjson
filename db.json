@@ -1,5 +1,11 @@
 {
-    "data": [
+  "posts": [
+    {
+      "id": 1,
+      "title": "test"
+    }
+  ],
+  "data": [
         {
             "id": "1",
             "name": "Tiger",
@@ -27,5 +33,8 @@
             "office": "San Francisco",
             "extn": "1562"
         }
-    ]
+    ],
+  "profile": {
+    "name": "typicode"
+  }
 }
