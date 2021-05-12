@@ -1,50 +1,31 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "test"
-    }
-  ],
-  "funds": {
-    "fund": 10000
-  },
-  "portfolio": [
-    {
-      "name": "Samsung",
-      "quantity": 0
-    },
-    {
-      "name": "Redmi",
-      "quantity": 0
-    },
-    {
-      "name": "Apple",
-      "quantity": 0
-    },
-    {
-      "name": "Vivo",
-      "quantity": 0
-    }
-  ],
-  "stocks": [
-    {
-      "name": "Samsung",
-      "price": 75
-    },
-    {
-      "name": "Redmi",
-      "price": 52
-    },
-    {
-      "name": "Apple",
-      "price": 53
-    },
-    {
-      "name": "Vivo",
-      "price": 20
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "data": [
+        {
+            "id": "1",
+            "name": "Tiger",
+            "position": "System",
+            "salary": "$320,800",
+            "start_date": "123",
+            "office": "Edinburgh",
+            "extn": "5421"
+        },
+        {
+            "id": "2",
+            "name": "Garrett",
+            "position": "Accountant",
+            "salary": "$170,750",
+            "start_date": "321",
+            "office": "Tokyo",
+            "extn": "8422"
+        },
+        {
+            "id": "3",
+            "name": "Ashton",
+            "position": "Junior",
+            "salary": "$86,000",
+            "start_date": "123",
+            "office": "San Francisco",
+            "extn": "1562"
+        }
+    ]
 }
