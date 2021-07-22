@@ -6,33 +6,39 @@
     }
   ],
   "data": [
-        {
-            "BUDGET_AMOUNT": "1",
-            "QVarianceUSD": "Tiger",
-            "QVariance": "System",
-            "VarianceUSD": "$320,800",
-            "ACCOUNT_CODE": "123",
-            "Variance": "Edinburgh",
-            "ACTUAL_AMOUNT": "5421"
-        },
-        {
-            "BUDGET_AMOUNT": "2",
-            "QVarianceUSD": "Tiger2",
-            "QVariance": "System2",
-            "VarianceUSD": "$320,800",
-            "ACCOUNT_CODE": "123",
-            "Variance": "Edinburgh2",
-            "ACTUAL_AMOUNT": "5421"
-        },
-        {
-            "BUDGET_AMOUNT": "3",
-            "QVarianceUSD": "Tiger3",
-            "QVariance": "System3",
-            "VarianceUSD": "$320,800",
-            "ACCOUNT_CODE": "123",
-            "Variance": "Edinburgh3",
-            "ACTUAL_AMOUNT": "5421"
-        }
+       {
+	"id":1,
+	"text":"Foods",
+	"children":[{
+		"id":2,
+		"text":"Fruits",
+		"state":"closed",
+		"children":[{
+			"text":"apple",
+			"checked":true
+		},{
+			"text":"orange"
+		}]
+	},{
+		"id":3,
+		"text":"Vegetables",
+		"state":"open",
+		"children":[{
+			"text":"tomato",
+			"checked":true
+		},{
+			"text":"carrot",
+			"checked":true
+		},{
+			"text":"cabbage"
+		},{
+			"text":"potato",
+			"checked":true
+		},{
+			"text":"lettuce"
+		}]
+	}]
+}
     ],
   "profile": {
     "name": "typicode"
