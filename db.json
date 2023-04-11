@@ -5,41 +5,45 @@
       "title": "test"
     }
   ],
-  "data": [
-       {
-	"id":1,
-	"text":"Foods",
-	"children":[{
-		"id":2,
-		"text":"Fruits",
-		"state":"closed",
-		"children":[{
-			"text":"apple",
-			"checked":true
-		},{
-			"text":"orange"
-		}]
-	},{
-		"id":3,
-		"text":"Vegetables",
-		"state":"open",
-		"children":[{
-			"text":"tomato",
-			"checked":true
-		},{
-			"text":"carrot",
-			"checked":true
-		},{
-			"text":"cabbage"
-		},{
-			"text":"potato",
-			"checked":true
-		},{
-			"text":"lettuce"
-		}]
-	}]
-}
-    ],
+  "funds": {
+    "fund": 10000
+  },
+  "portfolio": [
+    {
+      "name": "Samsung",
+      "quantity": 0
+    },
+    {
+      "name": "Redmi",
+      "quantity": 0
+    },
+    {
+      "name": "Apple",
+      "quantity": 0
+    },
+    {
+      "name": "Vivo",
+      "quantity": 0
+    }
+  ],
+  "stocks": [
+    {
+      "name": "Samsung",
+      "price": 75
+    },
+    {
+      "name": "Redmi",
+      "price": 52
+    },
+    {
+      "name": "Apple",
+      "price": 53
+    },
+    {
+      "name": "Vivo",
+      "price": 20
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
